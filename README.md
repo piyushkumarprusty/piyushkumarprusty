@@ -1,3 +1,14 @@
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning RX java 
+- 👯 I’m looking to collaborate on Business
+- 🤔 I’m looking for help with Encryption
+- 💬 Ask me about Android
+- 📫 How to reach me: Linkedin
+- 😄 Pronouns: He / His
+- ⚡ Fun fact: Business Ideas
+
+
+
 <h1 align="center">Hi 👋, I'm piyushkumarprusty</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
