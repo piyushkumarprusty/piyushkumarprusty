@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning RX java 
+- 🌱 I’m currently learning RX java  & Flutter
 - 👯 I’m looking to collaborate on Business
 - 🤔 I’m looking for help with Encryption
 - 💬 Ask me about Android
