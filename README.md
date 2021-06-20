@@ -1,3 +1,6 @@
+---------   kIBIRYANI ||  FASTFIX ---------- FOLLOW AND TAKE OUR SERVICES
+INSTA I'D  --  kibiryani_ || Ffix
+--------------------------------------------------------------------------
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning RX java  & Flutter
 -     UI design intermediate
