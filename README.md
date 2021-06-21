@@ -3,6 +3,7 @@ INSTA I'D  --  kibiryani_ || Ffix
 --------------------------------------------------------------------------
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning RX java  & Flutter
+- Want Help in Threading 
 -     UI design intermediate
 - 👯 I’m looking to collaborate on Business
 - 🤔 I’m looking for help with Encryption
