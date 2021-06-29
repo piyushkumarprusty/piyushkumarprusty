@@ -1,19 +1,16 @@
----------   kIBIRYANI ||  FASTFIX ---------- FOLLOW AND TAKE OUR SERVICES
-INSTA I'D  --  kibiryani_ || Ffix
+---------   Want to learn More ||  FASTFIX ---------- 
+
 --------------------------------------------------------------------------
 - 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning RX java  & Flutter
-- authentication hlp!!
-- 
-- Want Help in Threading 
+- 🌱 I’m currently learning RX java  & Flutter & AES 
 -     UI design intermediate
 - 👯 I’m looking to collaborate on Business
-- 🤔 I’m looking for help with Encryption
+<!-- - 🤔 I’m looking for help with Encryption -->
 - 💬 Ask me about Android
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: Business Ideas
-
+<!-- - 😄 Pronouns: He / His -->
+<!-- - ⚡ Fun fact: Business Ideas
+ -->
 
 
 <h1 align="center">Hi 👋, I'm piyushkumarprusty</h1>
