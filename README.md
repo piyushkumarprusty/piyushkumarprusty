@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning RX java  & Flutter & AES 
 -     UI design intermediate
-- 👯 I’m looking to collaborate on Business
+- 👯 I’m looking to work with android organisation
 <!-- - 🤔 I’m looking for help with Encryption -->
 - 💬 Ask me about Android
 - 📫 How to reach me: Linkedin
@@ -14,8 +14,8 @@
 
 
 <h1 align="center">Hi 👋, I'm piyushkumarprusty</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-<h4 align="center"> StartUP Lover </h4>
+<h3 align="center">A passionate Android developer from India </h3>
+<h4 align="center"> Open To Work and Learn </h4>
 
 
 
