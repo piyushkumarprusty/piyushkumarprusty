@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning RX java  & Flutter & AES 
--     UI design intermediate
+-     UI design getting adv
 - 👯 I’m looking to work with android organisation
 <!-- - 🤔 I’m looking for help with Encryption -->
 - 💬 Ask me about Android
