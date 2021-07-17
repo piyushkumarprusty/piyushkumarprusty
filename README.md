@@ -5,12 +5,13 @@
 - 🌱 I’m currently learning RX java  & Flutter & AES 
 -     UI design getting adv
 - 👯 I’m looking to work with android organisation
+- ⚡ Fun fact: i love joke and make comedy of myself
+
 <!-- - 🤔 I’m looking for help with Encryption -->
 - 💬 Ask me about Android
 - 📫 How to reach me: Linkedin
 <!-- - 😄 Pronouns: He / His -->
-<!-- - ⚡ Fun fact: Business Ideas
- -->
+ 
 
 
 <h1 align="center">Hi 👋, I'm piyushkumarprusty</h1>
